@@ -1,0 +1,5 @@
+C:\Users\RisingEntropy\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\231.9225.21\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S C:\Users\RisingEntropy\Documents\Projects\L051MAX77857 -B C:\Users\RisingEntropy\Documents\Projects\L051MAX77857\cmake-build-debug
+-- Minimal optimization, debug info included
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/RisingEntropy/Documents/Projects/L051MAX77857/cmake-build-debug

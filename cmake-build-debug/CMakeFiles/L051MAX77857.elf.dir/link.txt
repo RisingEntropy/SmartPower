@@ -1,0 +1,1 @@
+C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE -g -Wl,-gc-sections,--print-memory-usage,-Map=C:/Users/RisingEntropy/Documents/Projects/L051MAX77857/cmake-build-debug/L051MAX77857.map -mcpu=cortex-m0 -mthumb -mthumb-interwork -T C:/Users/RisingEntropy/Documents/Projects/L051MAX77857/STM32L051C8TX_FLASH.ld @CMakeFiles\L051MAX77857.elf.dir\objects1 -o L051MAX77857.elf 

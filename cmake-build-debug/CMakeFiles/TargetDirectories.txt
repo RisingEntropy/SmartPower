@@ -1,0 +1,3 @@
+C:/Users/RisingEntropy/Documents/Projects/L051MAX77857/cmake-build-debug/CMakeFiles/L051MAX77857.elf.dir
+C:/Users/RisingEntropy/Documents/Projects/L051MAX77857/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/RisingEntropy/Documents/Projects/L051MAX77857/cmake-build-debug/CMakeFiles/rebuild_cache.dir
